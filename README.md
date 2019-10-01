@@ -3,7 +3,7 @@
 # CSS Project 1
 This is the week 1 project, putting to use the CSS skills we learnt from the first week of the **Coding Fellowship** with **DevelopMe Summer 2019.**
 
-I took designs from a photoshop design made by teacher Ruth Jones and turned it into a website.
+I took designs from a photoshop design made by teacher Ruth John and turned it into a website.
 
 **Original design:**
 ![Screenshot 2019-10-01 at 00 19 47](https://user-images.githubusercontent.com/51890290/65925362-6fda3500-e3e8-11e9-9e86-ac37fac78723.png)
